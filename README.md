@@ -21,3 +21,8 @@ Documenting my homelab journey
 | **Machine** | **OS** | **CPU** | **RAM** | **Role** |
 |     ---     |   ---  |   ---   |   ---   |   ---    |
 |             |        |         |         |          |
+
+
+## Services
+- Docker Containers
+- Proxmox Deployments
